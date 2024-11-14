@@ -1,0 +1,7 @@
+GET /api/v0.1/spectra/wasp-39%20b/filelist/   HTTP/1.1
+Host: exo.mast.stsci.edu
+
+### 
+
+GET /api/v0.1/spectra/wasp-39%20b/file/WASP-39b_transmission_Wakeford2018.txt HTTP/1.1
+Host: exo.mast.stsci.edu
